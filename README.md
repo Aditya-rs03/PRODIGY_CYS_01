@@ -1,5 +1,3 @@
-
-
 # ✅ Task-01: Implement Caesar Cipher  
 🔐 "Encrypt and Decrypt Messages using Caesar Cipher" 
 
@@ -17,7 +15,6 @@ A Python GUI application to perform encryption and decryption using the classic 
 - 🖱️ Interactive "Execute" button with hover effects
 
 ---
-
 ## 🛠️ Technologies Used
 
 - Python 3.x  
@@ -32,4 +29,5 @@ A Python GUI application to perform encryption and decryption using the classic 
 2. Save the code into a `.py` file (e.g., `caesar_cipher_gui.py`).
 3. Run the file:
 
-```
+```bash
+python Task1.py
